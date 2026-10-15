@@ -15,7 +15,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-aorlova--techspec-181717?style=for-the-badge&logo=github)](https://github.com/aorlova-techspec)
 [![Telegram](https://img.shields.io/badge/Telegram-Let's_talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ao_techspec)
-[![Website](https://img.shields.io/badge/Website-Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alenaorlova-techspec.tilda.ws/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aorlova-techspec.github.io/)
 
 
 </div>
